@@ -13,19 +13,19 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 
-- 🎓 BSCS student at **Iqra University**, Karachi — building toward a career in **AI/ML engineering**
-- 🛠️ Currently interning at **Ezitech Software**, building the backend for an **AI-powered recruitment & talent discovery platform** (resume parsing, portfolio scoring, job matching, ATS reporting)
-- 🧠 I build full-stack **RAG systems** — most recently **CodeSage**, a multi-surface (web + Chrome extension + Electron desktop) tool for querying YouTube transcripts and local codebases
-- 📊 6+ deployed ML projects spanning classification, regression, and NLP — each with real, reported accuracy metrics (not cherry-picked)
-- 🏆 Competed in **SkillVerse 2026 AI Rapid Forge** and completed data science assessments with **Zidio Development**
-- 🌱 Currently deepening my knowledge of LangChain internals, Docker, and production ML deployment
-- ⚡ Fun fact: I train calisthenics (handstand progression) with the same iterative, track-what-works mindset I bring to debugging models
+- BSCS student at **Iqra University**, Karachi — building toward a career in **AI/ML engineering**
+- Currently interning at **Ezitech Software**, building the backend for an **AI-powered recruitment & talent discovery platform** (resume parsing, portfolio scoring, job matching, ATS reporting)
+- I build full-stack **RAG systems** — most recently **CodeSage**, a multi-surface (web + Chrome extension + Electron desktop) tool for querying YouTube transcripts and local codebases
+- 6+ deployed ML projects spanning classification, regression, and NLP — each with real, reported accuracy metrics (not cherry-picked)
+- Competed in **SkillVerse 2026 AI Rapid Forge** and completed data science assessments with **Zidio Development**
+- Currently deepening my knowledge of LangChain internals, Docker, and production ML deployment
+- Fun fact: I train calisthenics (handstand progression) with the same iterative, track-what-works mindset I bring to debugging models
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
