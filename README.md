@@ -1,5 +1,9 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8E2DE2,100:0F2027&height=180&section=header&text=AYAAN%20HUSSAIN&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+
+</div>
+
 ```
  █████╗ ██╗   ██╗ █████╗  █████╗ ███╗   ██╗
 ██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗████╗  ██║
