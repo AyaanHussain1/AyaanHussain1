@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:0F2027&height=150&section=header" />
-
 ```
     _ __   __ _        _    _   _   _   _ _   _ ____ ____    _    ___ _   _
    / \\ \ / // \      / \  | \ | | | | | | | | / ___/ ___|  / \  |_ _| \ | |
@@ -12,6 +10,8 @@
 
 **AI/ML Engineer** &nbsp;·&nbsp; RAG Systems &nbsp;·&nbsp; Production ML &nbsp;·&nbsp; Backend for AI Products
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+that+actually+cite+sources;Shipping+ML+models+past+a+single+training+script;Turning+resumes+and+code+into+structured+data;Open+to+AI%2FML+internships+and+roles" />
+
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -19,20 +19,7 @@
 
 </div>
 
-<br/>
-
-<table width="100%"><tr><td>
-
-```diff
-+ Building RAG pipelines that actually cite their sources
-+ Shipping ML models past a single training script
-+ Turning resumes, transcripts, and raw code into structured data
-+ Open to AI/ML internships and roles
-```
-
-</td></tr></table>
-
-<br/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:0F2027&height=4"/>
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -55,7 +42,7 @@
 
 </div>
 
-<br/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:8E2DE2&height=4"/>
 
 ## 🧩 Featured Work
 
@@ -100,7 +87,7 @@
 
 </details>
 
-<br/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:0F2027&height=4"/>
 
 ## 🛠️ Stack
 
@@ -122,7 +109,7 @@
 
 </div>
 
-<br/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:8E2DE2&height=4"/>
 
 ## 📈 GitHub Activity
 
@@ -143,7 +130,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AyaanHussain1&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
-<br/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:0F2027&height=4"/>
 
 <div align="center">
 
@@ -151,5 +138,3 @@
 Open to **AI/ML internships**, **junior ML engineer**, and **backend for AI products** roles.
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:8E2DE2&height=100&section=footer" />
