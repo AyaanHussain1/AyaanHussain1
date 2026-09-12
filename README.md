@@ -66,7 +66,7 @@ If you're skimming — three things worth your two minutes:
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="20"/>
 
-**Status:** in active development
+**Status:** Built and pushed to GitHub
 
 </td>
 </tr>
