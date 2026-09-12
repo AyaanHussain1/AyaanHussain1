@@ -1,8 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:0F2027&height=220&section=header&text=AYAAN%20HUSSAIN&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20RAG%20Systems%20%26%20Production%20ML&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:0F2027&height=150&section=header" />
 
-<table><tr><td>
+```
+    _ __   __ _        _    _   _   _   _ _   _ ____ ____    _    ___ _   _
+   / \\ \ / // \      / \  | \ | | | | | | | | / ___/ ___|  / \  |_ _| \ | |
+  / _ \\ V // _ \    / _ \ |  \| | | |_| | | | \___ \___ \ / _ \  | ||  \| |
+ / ___ \| |/ ___ \  / ___ \| |\  | |  _  | |_| |___) |__) / ___ \ | || |\  |
+/_/   \_\_/_/   \_\/_/   \_\_| \_| |_| |_|\___/|____/____/_/   \_\___|_| \_|
+```
+
+**AI/ML Engineer** &nbsp;·&nbsp; RAG Systems &nbsp;·&nbsp; Production ML &nbsp;·&nbsp; Backend for AI Products
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=AyaanHussain1&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+<table width="100%"><tr><td>
 
 ```diff
 + Building RAG pipelines that actually cite their sources
@@ -15,32 +34,24 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=AyaanHussain1&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br/>
-
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  whoami                                                           │
-├─────────────────────────────────────────────────────────────────┤
-│  > BSCS student @ Iqra University, Karachi                        │
-│  > AI/ML Engineering Intern @ Ezitech Software                    │
-│  > Building full-stack RAG systems (CodeSage)                     │
-│  > 6+ shipped ML models, all with reported metrics                │
-│  > Currently deep in: RAG evaluation, Docker, deployment           │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│  whoami                                                            │
+├──────────────────────────────────────────────────────────────────┤
+│  > BSCS student @ Iqra University, Karachi                         │
+│  > AI/ML Engineering Intern @ Ezitech Software                     │
+│  > Building full-stack RAG systems (CodeSage)                      │
+│  > 6+ shipped ML models, all with reported metrics                 │
+│  > Currently deep in: RAG evaluation, Docker, deployment            │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-| 🚀 Shipped | 🧠 Models Deployed | 📊 Avg. Model Accuracy | 🛠️ Active Focus |
-|:---:|:---:|:---:|:---:|
-| **CodeSage** — 3 client surfaces | **6+** classifiers/regressors | **93–97%** | RAG evaluation + Docker |
+![Shipped](https://img.shields.io/badge/Shipped-CodeSage%20%7C%203%20client%20surfaces-8E2DE2?style=for-the-badge)
+![Models](https://img.shields.io/badge/Models%20Deployed-6%2B-4A00E0?style=for-the-badge)
+![Accuracy](https://img.shields.io/badge/Model%20Accuracy-93--97%25-0F2027?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Active%20Focus-RAG%20Eval%20%2B%20Docker-EA4335?style=for-the-badge)
 
 </div>
 
@@ -95,16 +106,19 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,mysql,docker,git,vscode&theme=dark&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-00758F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00758F?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -129,12 +143,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AyaanHussain1&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
-<!-- Live contribution-snake, built from real commit history via GitHub Actions (Platane/snk) — set up once, updates automatically:
-<div align="center">
-<img src="https://raw.githubusercontent.com/AyaanHussain1/AyaanHussain1/output/github-contribution-grid-snake.svg" />
-</div>
--->
-
 <br/>
 
 <div align="center">
@@ -144,4 +152,4 @@ Open to **AI/ML internships**, **junior ML engineer**, and **backend for AI prod
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:4A00E0,100:8E2DE2&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:8E2DE2&height=100&section=footer" />
