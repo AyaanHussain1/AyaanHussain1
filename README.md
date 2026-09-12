@@ -30,7 +30,7 @@
 + Building RAG pipelines that actually cite their sources
 + Shipping ML models past a single training script
 + Turning resumes, transcripts, and raw code into structured data
-+ Open to AI/ML internships and roles
++ Open to AI/ML Engineer roles
 ```
 
 <div align="center">
@@ -48,7 +48,7 @@
 If you're skimming — three things worth your two minutes:
 
 1. **[CodeSage](https://github.com/AyaanHussain1/codesage)** — my flagship build. A RAG engine shipped across three real client surfaces, not a single-file demo.
-2. **[Ezitech AI Talent Platform](#-featured-work)** — production internship work: schema-validated LLM output, not just a prompt wrapper.
+2. **[Ezitech AI Talent Platform](#-featured-work)** — production engineering work: schema-validated LLM output, not just a prompt wrapper.
 3. **[ML Model Suite](#-ml-model-suite)** — 6+ models, every one with a reported metric and a runnable `.py` file.
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:0F2027&height=4"/>
@@ -71,7 +71,7 @@ If you're skimming — three things worth your two minutes:
 <td width="50%" valign="top">
 
 ### AI Talent Discovery Platform
-**Internship build @ Ezitech.** Parses resumes with `pdfplumber` + GPT-4o-mini, validates every LLM output against a Pydantic schema, scores portfolios, and matches candidates to jobs on skill overlap.
+**Engineering work @ Ezitech.** Parses resumes with `pdfplumber` + GPT-4o-mini, validates every LLM output against a Pydantic schema, scores portfolios, and matches candidates to jobs on skill overlap.
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="20"/>
 
@@ -127,6 +127,6 @@ If you're skimming — three things worth your two minutes:
 <div align="center">
 
 ### 💬 Let's build something
-Open to **AI/ML internships**, **junior ML engineer**, and **backend for AI products** roles.
+Open to **AI/ML Engineer**, **RAG/LLM Systems**, and **Backend for AI Products** roles.
 
 </div>
