@@ -16,7 +16,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 ```
 
-**AI/ML Engineer** &nbsp;·&nbsp; RAG Systems &nbsp;·&nbsp; Production ML &nbsp;·&nbsp; Backend for AI Products
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=700&color=8E2DE2&center=true&vCenter=true&width=550&lines=AI%2FML+Engineer;RAG+Systems+Builder;Production+ML+Engineer;Backend+for+AI+Products" />
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -65,7 +65,6 @@ If you're skimming — three things worth your two minutes:
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/FAISS-00758F?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
 
 **Deployed:** Railway (backend) + Vercel (frontend)
-[→ View repo](https://github.com/AyaanHussain1/codesage)
 
 </td>
 <td width="50%" valign="top">
