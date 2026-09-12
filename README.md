@@ -2,7 +2,16 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:0F2027&height=220&section=header&text=AYAAN%20HUSSAIN&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20RAG%20Systems%20%26%20Production%20ML&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+that+don't+hallucinate;Shipping+ML+models+past+model.fit();Turning+resumes%2Ftranscripts%2Fcode+into+structured+data;Open+to+AI%2FML+internships+%26+roles" />
+<table><tr><td>
+
+```diff
++ Building RAG pipelines that actually cite their sources
++ Shipping ML models past a single training script
++ Turning resumes, transcripts, and raw code into structured data
++ Open to AI/ML internships and roles
+```
+
+</td></tr></table>
 
 <br/>
 
@@ -110,6 +119,10 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=AyaanHussain1&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyaanHussain1&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 <div align="center">
