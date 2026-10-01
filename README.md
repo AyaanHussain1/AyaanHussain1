@@ -28,7 +28,7 @@
 <div align="center">
 
 ![Shipped](https://img.shields.io/badge/Shipped-CodeSage%20%7C%203%20client%20surfaces-8E2DE2?style=for-the-badge)
-![Models](https://img.shields.io/badge/Models%20Deployed-6%2B-4A00E0?style=for-the-badge)
+![Models](https://img.shields.io/badge/Models%20Deployed-15%2B-4A00E0?style=for-the-badge)
 ![Accuracy](https://img.shields.io/badge/Model%20Accuracy-93--97%25-0F2027?style=for-the-badge)
 
 </div>
@@ -37,11 +37,11 @@
 
 ## 🧭 Start here
 
-If you're skimming — three things worth your two minutes:
+A concise overview of the work that best represents my engineering approach:
 
-1. **[CodeSage](https://github.com/AyaanHussain1/codesage)** — my flagship build. A RAG engine shipped across three real client surfaces, not a single-file demo.
+1. **[CodeSage](https://github.com/AyaanHussain1/codesage)** — my flagship build. A RAG engine shipped across three real client surfaces, not a single-file demo. **[Try the live demo →](https://rag-agent-frontend-three.vercel.app/)**
 2. **[Ezitech AI Talent Platform](#-featured-work)** — production engineering work: schema-validated LLM output, not just a prompt wrapper.
-3. **[ML Model Suite](#-ml-model-suite)** — 6+ models, every one with a reported metric and a runnable `.py` file.
+3. **[ML Model Suite](#-ml-model-suite)** — 15+ models, every one with a reported metric and a runnable `.py` file.
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:0F2027&height=4"/>
 
@@ -57,6 +57,8 @@ If you're skimming — three things worth your two minutes:
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/FAISS-00758F?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
 
 **Deployed:** Railway (backend) + Vercel (frontend)
+
+**Live demo:** [rag-agent-frontend-three.vercel.app](https://rag-agent-frontend-three.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -74,7 +76,7 @@ If you're skimming — three things worth your two minutes:
 
 <a name="-ml-model-suite"></a>
 <details>
-<summary><b>📦 Expand: Full ML Model Suite (6 projects, all metric-backed)</b></summary>
+<summary><b>📦 Expand: Full ML Model Suite (15+ projects, all metric-backed)</b></summary>
 <br/>
 
 | Project | Approach | Result |
